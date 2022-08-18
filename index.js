@@ -16,8 +16,8 @@ The function should:
 */
 
 
-function createMenuItem(/*Your code here*/){
-  /*Your code here*/
+function createMenuItem(name, price, category){
+  return  {name, price, category}
 }
 
 
